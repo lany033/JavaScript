@@ -55,7 +55,6 @@ app7 = new App("1200","5 estrellas","900mb");
 // app.cerrar();
 
 document.write(`
-
 ${app.appInfo()}
 ${app2.appInfo()}
 ${app3.appInfo()}
@@ -63,10 +62,6 @@ ${app4.appInfo()}
 ${app5.appInfo()}
 ${app6.appInfo()}
 ${app7.appInfo()}
-
-
 `
-
-
 )
 
