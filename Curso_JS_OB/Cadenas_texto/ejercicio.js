@@ -1,0 +1,10 @@
+var nombre = "Melanie"
+var apellido = "Mantilla"
+var estudiante = nombre + " " + apellido
+var estudianteMayus = estudiante.toLocaleUpperCase()
+var estudianteMayus = estudiante.toLocaleLowerCase()
+var numeroLetras = estudiante.length()
+var primeraLetra = nombre.startsWith()
+var ultimaLetra = apellido.endsWith()
+var eliminarEspacio = estudiante.trim()
+var booleana = estudiante.includes(nombre)
